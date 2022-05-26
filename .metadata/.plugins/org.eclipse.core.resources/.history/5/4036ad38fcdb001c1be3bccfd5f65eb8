@@ -1,0 +1,26 @@
+import java.io.*;
+import java.util.Scanner;
+
+public class One {
+
+	public static void main(String[] args) {
+	
+		// creating scanner class object
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter the no:");
+		
+		// reading value from the user
+		
+		int num = scan.nextInt();
+		// method calling 
+		
+		findEvenOdd(num);
+		
+	}
+
+	private static void findEvenOdd(int num) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,23 @@
+import java.io.*;
+
+
+public class One {
+
+	public static void main(String[] args) {
+		
+		String a = "Ram";
+		String b = "Sita";
+		
+		int  c = add(a,b);
+		System.out.println("the sum of a and b is =" +c);
+	}
+	
+	
+		
+	public static int add(Serializable a, String b)
+	{
+	Object s;
+	s = a + b;
+	return (int) s;
+	}
+}

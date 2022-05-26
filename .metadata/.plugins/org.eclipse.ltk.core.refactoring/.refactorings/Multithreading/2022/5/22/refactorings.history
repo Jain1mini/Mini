@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Threadts2.java&apos; to &apos;scMethod3.java&apos;&#x0D;&#x0A;- Original project: &apos;Multithreading&apos;&#x0D;&#x0A;- Destination element: &apos;scMethod3.java&apos;&#x0D;&#x0A;- Original element: &apos;Threadts2.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Methods/src&lt;{scMethod3.java" element1="/src&lt;{Threadts2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1653469836530" units="1" version="1.0"/>
+</session>
